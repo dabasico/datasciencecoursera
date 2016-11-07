@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data sciecne part2 test
+Data science part2 test
